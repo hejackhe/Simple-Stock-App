@@ -1,6 +1,6 @@
 # Simple Stock App
 
-The motivation for the creation of this simple stock program is for an exercise in exploring Python features.
+The motivation behind the creation of this simple stock program is in the exploration of Python features.
 
 Using a subset of ftse data, the program provides various information for a stock on a given day.
 
@@ -10,4 +10,4 @@ It also allows you to plot either a single stock's price over a given period or 
 
 Finally, the program utilizes linear regression for its simple prediction component. 
 
-Instead of using a library, the linear regression model is hard-coded on purpose.
+Instead of using a library, the linear regression model is intentionally hard-coded.
